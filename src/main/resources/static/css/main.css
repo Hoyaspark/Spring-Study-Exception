@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    overflow-y:scroll;
+    margin-top: 0;
+}
+
+.menu {
+    background-color:white;
+    height:50px;
+    width:100%;
+    position:sticky;
+    top:0px;
+    text-align:center;
+    color:black;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+#section {
+    background-color: white;
+    height: 100vh;
+    margin-bottom: 40px;
+}
+
+
+
+
+
+
